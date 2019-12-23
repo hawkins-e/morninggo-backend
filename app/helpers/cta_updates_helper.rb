@@ -1,0 +1,2 @@
+module CtaUpdatesHelper
+end

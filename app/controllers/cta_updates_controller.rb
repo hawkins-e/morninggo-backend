@@ -1,0 +1,3 @@
+class CtaUpdatesController < ApplicationController
+    
+end

@@ -1,0 +1,3 @@
+class WeatherUpdatesController < ApplicationController
+    
+end

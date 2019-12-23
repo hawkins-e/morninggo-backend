@@ -1,0 +1,2 @@
+class DivvyUpdatesController < ApplicationController
+end
