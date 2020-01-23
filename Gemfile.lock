@@ -92,12 +92,21 @@ GEM
     nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
     pg (1.1.4)
+<<<<<<< HEAD
     puma (3.12.1)
     rack (2.0.7)
     rack-proxy (0.6.5)
       rack
     rack-test (1.1.0)
       rack (>=2.0.8)
+=======
+    puma (3.12.2)
+    rack (2.0.8)
+    rack-proxy (0.6.5)
+      rack
+    rack-test (1.1.0)
+      rack (>= 1.0, < 3)
+>>>>>>> 4d029a6c973cca3043d08c962f385dadd64cb0cb
     rails (6.0.0)
       actioncable (= 6.0.0)
       actionmailbox (= 6.0.0)
@@ -182,7 +191,11 @@ DEPENDENCIES
   jbuilder (~> 2.7)
   listen (>= 3.0.5, < 3.2)
   pg (>= 0.18, < 2.0)
+<<<<<<< HEAD
   puma (~> 3.11)
+=======
+  puma (~> 3.12)
+>>>>>>> 4d029a6c973cca3043d08c962f385dadd64cb0cb
   rails (~> 6.0.0)
   sass-rails (~> 5)
   spring
